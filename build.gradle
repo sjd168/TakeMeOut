@@ -28,5 +28,4 @@ dependencies {
     compile 'com.android.support:appcompat-v7:22.1.1'
     compile files('libs/Volley.jar')
     compile files('libs/PullToRefreshListView.jar')
-    compile project(':pulltorefresh')
 }
